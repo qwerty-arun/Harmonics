@@ -25,6 +25,7 @@ To synthesize periodic waveforms using sine harmonics, apply digital filters usi
 - **Low-pass filters** significantly reduced higher-order harmonics, smoothing the waveforms.
 - **High-pass filters** removed low frequencies, keeping sharp edges and high-frequency components.
 - **Audacity's filters** produced nearly identical results, confirming the effectiveness of SoX’s built-in filter algorithms.
+- [Drive Link](https://docs.google.com/presentation/d/1qv1iv8u2L5lQqjwFUirdh7qQ1apj4eNI/edit?usp=drive_link&ouid=104687222784436859720&rtpof=true&sd=true)
 
 ## Conclusion
 - SoX’s built-in `lowpass` and `highpass` filters perform comparably to Audacity’s.
